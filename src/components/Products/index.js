@@ -16,7 +16,7 @@ import { productData } from './data';
 const Products = () => {
     return (
         <ProductsContainer>
-            <ProductsHeading>Heading</ProductsHeading>
+            <ProductsHeading>Menu</ProductsHeading>
             <ProductWrapper>
                 {productData.map((product, index) => {
                     return (
