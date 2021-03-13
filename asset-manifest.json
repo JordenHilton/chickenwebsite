@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/chickenwebsite/static/js/main.f7bca1a9.chunk.js",
-    "main.js.map": "/chickenwebsite/static/js/main.f7bca1a9.chunk.js.map",
+    "main.js": "/chickenwebsite/static/js/main.dea7f7a3.chunk.js",
+    "main.js.map": "/chickenwebsite/static/js/main.dea7f7a3.chunk.js.map",
     "runtime-main.js": "/chickenwebsite/static/js/runtime-main.583dddcd.js",
     "runtime-main.js.map": "/chickenwebsite/static/js/runtime-main.583dddcd.js.map",
     "static/js/2.f90c31c1.chunk.js": "/chickenwebsite/static/js/2.f90c31c1.chunk.js",
@@ -18,6 +18,6 @@
   "entrypoints": [
     "static/js/runtime-main.583dddcd.js",
     "static/js/2.f90c31c1.chunk.js",
-    "static/js/main.f7bca1a9.chunk.js"
+    "static/js/main.dea7f7a3.chunk.js"
   ]
 }
