@@ -18,7 +18,7 @@ const Hero = () => {
             <HeroContent>
                 <HeroItems>
                     <HeroH1>Finger Lickin'</HeroH1>
-                    <HeroP>Chicken</HeroP>
+                    <HeroP>Good</HeroP>
                     <HeroBtn>Place Order</HeroBtn>
                 </HeroItems>
             </HeroContent>
