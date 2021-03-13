@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/chickenwebsite/static/js/main.f7bca1a9.chunk.js",
+    "main.js.map": "/chickenwebsite/static/js/main.f7bca1a9.chunk.js.map",
+    "runtime-main.js": "/chickenwebsite/static/js/runtime-main.583dddcd.js",
+    "runtime-main.js.map": "/chickenwebsite/static/js/runtime-main.583dddcd.js.map",
+    "static/js/2.f90c31c1.chunk.js": "/chickenwebsite/static/js/2.f90c31c1.chunk.js",
+    "static/js/2.f90c31c1.chunk.js.map": "/chickenwebsite/static/js/2.f90c31c1.chunk.js.map",
+    "static/js/3.1d89e048.chunk.js": "/chickenwebsite/static/js/3.1d89e048.chunk.js",
+    "static/js/3.1d89e048.chunk.js.map": "/chickenwebsite/static/js/3.1d89e048.chunk.js.map",
+    "index.html": "/chickenwebsite/index.html",
+    "static/js/2.f90c31c1.chunk.js.LICENSE.txt": "/chickenwebsite/static/js/2.f90c31c1.chunk.js.LICENSE.txt",
+    "static/media/Chicken.2b0cf622.jpg": "/chickenwebsite/static/media/Chicken.2b0cf622.jpg",
+    "static/media/Family.a6a1ad9e.jpg": "/chickenwebsite/static/media/Family.a6a1ad9e.jpg",
+    "static/media/Meal.3f09c3af.jpg": "/chickenwebsite/static/media/Meal.3f09c3af.jpg",
+    "static/media/Snack.2c86ce98.jpg": "/chickenwebsite/static/media/Snack.2c86ce98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583dddcd.js",
+    "static/js/2.f90c31c1.chunk.js",
+    "static/js/main.f7bca1a9.chunk.js"
+  ]
+}
