@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/JordenHilton/chickenwebsite/static/js/main.f7bca1a9.chunk.js",
+    "main.js.map": "/JordenHilton/chickenwebsite/static/js/main.f7bca1a9.chunk.js.map",
+    "runtime-main.js": "/JordenHilton/chickenwebsite/static/js/runtime-main.a0117219.js",
+    "runtime-main.js.map": "/JordenHilton/chickenwebsite/static/js/runtime-main.a0117219.js.map",
+    "static/js/2.9b0aebf8.chunk.js": "/JordenHilton/chickenwebsite/static/js/2.9b0aebf8.chunk.js",
+    "static/js/2.9b0aebf8.chunk.js.map": "/JordenHilton/chickenwebsite/static/js/2.9b0aebf8.chunk.js.map",
+    "static/js/3.1d89e048.chunk.js": "/JordenHilton/chickenwebsite/static/js/3.1d89e048.chunk.js",
+    "static/js/3.1d89e048.chunk.js.map": "/JordenHilton/chickenwebsite/static/js/3.1d89e048.chunk.js.map",
+    "index.html": "/JordenHilton/chickenwebsite/index.html",
+    "static/js/2.9b0aebf8.chunk.js.LICENSE.txt": "/JordenHilton/chickenwebsite/static/js/2.9b0aebf8.chunk.js.LICENSE.txt",
+    "static/media/Chicken.2b0cf622.jpg": "/JordenHilton/chickenwebsite/static/media/Chicken.2b0cf622.jpg",
+    "static/media/Family.a6a1ad9e.jpg": "/JordenHilton/chickenwebsite/static/media/Family.a6a1ad9e.jpg",
+    "static/media/Meal.3f09c3af.jpg": "/JordenHilton/chickenwebsite/static/media/Meal.3f09c3af.jpg",
+    "static/media/Snack.2c86ce98.jpg": "/JordenHilton/chickenwebsite/static/media/Snack.2c86ce98.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0117219.js",
+    "static/js/2.9b0aebf8.chunk.js",
+    "static/js/main.f7bca1a9.chunk.js"
+  ]
+}
