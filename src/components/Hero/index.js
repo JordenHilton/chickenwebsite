@@ -17,8 +17,8 @@ const Hero = () => {
             <Sidebar isOpen={isOpen} toggle={toggle}/>
             <HeroContent>
                 <HeroItems>
-                    <HeroH1>Finger Lickin' Good</HeroH1>
-                    <HeroP>Not Just For Sunday</HeroP>
+                    <HeroH1>Finger Lickin'</HeroH1>
+                    <HeroP>Chicken</HeroP>
                     <HeroBtn>Place Order</HeroBtn>
                 </HeroItems>
             </HeroContent>
