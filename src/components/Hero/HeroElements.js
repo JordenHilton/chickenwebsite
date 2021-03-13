@@ -35,6 +35,10 @@ export const HeroItems = styled.div`
     @media screen and (max-width: 650px) {
         width: 100%;
     }
+
+    @media (max-width: 400px) {
+        width: 74%;
+    }
 `;
 
 export const HeroH1 = styled.h1`
